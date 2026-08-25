@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648587867">
-  <project timestamp="1648587867">
-    <metrics files="0" loc="0" ncloc="0" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+<coverage generated="1787674496">
+  <project timestamp="1787674496">
+    <file name="/home/runner/work/regex-rule-guardian/regex-rule-guardian/src/RegexRuleGuardian.php">
+      <class name="Aegisora\RuleGuardians\RegexRule\RegexRuleGuardian" namespace="global">
+        <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+      </class>
+      <line num="15" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="38"/>
+      <line num="18" type="stmt" count="38"/>
+      <line num="27" type="method" name="check" visibility="public" complexity="1" crap="1" count="38"/>
+      <line num="32" type="stmt" count="38"/>
+      <metrics loc="35" ncloc="29" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+    </file>
+    <metrics files="1" loc="35" ncloc="29" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
   </project>
 </coverage>
