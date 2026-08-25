@@ -1,8 +1,20 @@
 {
     "name": "aegisora/regex-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Regex Rule Guardian provides a simple shortcut for string validation against a regular expression using aegisora/guardian and aegisora/regex-rule",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "regex",
+        "regex-validation",
+        "regular-expression",
+        "pattern",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/regex-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/regex-rule-guardian/issues",
